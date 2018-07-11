@@ -1,0 +1,11 @@
+{
+	"name": "sk.erikmoczi.project-name",
+	"displayName": "Project Name",
+	"version": "0.0.1",
+	"unity": "2018.1",
+	"description": "Please fill project description.\n\nThanks :)",
+	"keywords": ["none"],
+	"category": "undefined",
+	"dependencies": {
+	}
+}
